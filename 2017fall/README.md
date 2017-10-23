@@ -16,3 +16,7 @@ hannah.fresques@propublica.org
 1. Wednesday, September 13: Intro 
 
 [slides](https://docs.google.com/presentation/d/1uT866oMT-gvqC269QzSAOx8V12sPbihXZzHyldhRzoY/edit?usp=sharing)
+
+2. Monday, October 23: How-to and best practices 
+
+[database](https://drive.google.com/drive/folders/0B7_yiRfYi7ziVWdGQnBJdEprYlU?usp=sharing)
