@@ -20,6 +20,8 @@ hannah.fresques@propublica.org
 
 * U.S. census data via [FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) or [censusreporter.org](https://censusreporter.org/)
 
+* [Society of News Design](https://www.snd.org/) has their [annual conference](https://nyc.snd.org/) at the end of March in the 5th Ave building
+
 
 ## Classes
 1. **Wednesday, February 14: Intro** 
