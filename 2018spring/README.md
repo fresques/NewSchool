@@ -1,5 +1,5 @@
 # NewSchool
-News Narrative and Design I with Blake Eskin
+News Narrative and Design I, with Blake Eskin
 
 Spring 2018
 
@@ -16,7 +16,7 @@ hannah.fresques@propublica.org
 
 * NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 
-* U.S. census data via [FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) or (https://censusreporter.org/)
+* U.S. census data via [FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) or [censusreporter.org](https://censusreporter.org/)
 
 
 ## Classes
