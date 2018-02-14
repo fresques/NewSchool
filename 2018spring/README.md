@@ -1,5 +1,7 @@
-# NewSchool
+# Data Journalism
 News Narrative and Design I, with Blake Eskin
+
+The New School
 
 Spring 2018
 
