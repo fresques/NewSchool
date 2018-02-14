@@ -22,6 +22,16 @@ hannah.fresques@propublica.org
 
 * [Society for News Design](https://www.snd.org/) has their [annual conference](https://nyc.snd.org/) at the end of March in the 5th Ave building
 
+* [Source](https://source.opennews.org/) is a project from [Open News](https://opennews.org/) that highlights work by journalists who code. They have a jobs page.
+
+* Investigative Reporters and Editors aka IRE has a sub-organization called [NICAR](https://www.ire.org/nicar/) that is focused on  digital journalism. IRE has a jobs page. The [NICAR-L](https://www.ire.org/resource-center/listservs/subscribe-nicar-l/) list serve is a great place to hear what's happening in the data journalism community.
+
+* [Hacks Hackers](https://hackshackers.com/) hosts meetups of digital journalists.
+
+* [Storybench](http://www.storybench.org/) has cool behind-the-scenes on journalism projects.
+
+* The [News Nerdery](http://newsnerdery.org/) slack channel is pretty active and has a jobs channel and a career advice channel.
+
 
 ## Classes
 1. **Wednesday, February 14: Intro** 
