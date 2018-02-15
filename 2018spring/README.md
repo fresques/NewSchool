@@ -20,6 +20,8 @@ hannah.fresques@propublica.org
 
 * U.S. census data via [FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) or [censusreporter.org](https://censusreporter.org/)
 
+## Journalism Links
+
 * [Society for News Design](https://www.snd.org/) has their [annual conference](https://nyc.snd.org/) at the end of March in the 5th Ave building
 
 * [Source](https://source.opennews.org/) is a project from [Open News](https://opennews.org/) that highlights work by journalists who code. They have a jobs page.
@@ -31,6 +33,10 @@ hannah.fresques@propublica.org
 * [Storybench](http://www.storybench.org/) has cool behind-the-scenes on journalism projects.
 
 * The [News Nerdery](http://newsnerdery.org/) slack channel is pretty active and has a jobs channel and a career advice channel.
+
+* [The Online News Association](https://journalists.org/) has a jobs page too.
+
+* Affinity groups: [The National Association of Black Journalists](http://www.nabj.org/), [Asian American Journalists Association](https://www.aaja.org/), [Ida B. Wells Society](http://idabwellssociety.org/), [The Association of LGBTQ Journalists](http://www.nlgja.org/), [National Association of Hispanic Journalists](http://www.nahj.org/), [Native American Journalists Association](http://www.naja.com/)
 
 
 ## Classes
