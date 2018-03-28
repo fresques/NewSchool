@@ -32,7 +32,7 @@ hannah.fresques@propublica.org
 
 * U.S. census data via [FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) or [censusreporter.org](https://censusreporter.org/)
 
-* ProPublica data institute [materials](https://projects.propublica.org/graphics/data-institute-2017)
+* ProPublica data institute [materials](https://projects.propublica.org/graphics/data-institute-2017) <- This is much more indepth and advanced than we'll get this semester, but it's a great set of resources.
 
 ## Journalism Links
 
