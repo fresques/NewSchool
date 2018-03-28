@@ -22,7 +22,7 @@ hannah.fresques@propublica.org
 2. **Wednesday, March 28: more google sheets, census** 
 	* Slides from last time, plus [census slides](https://docs.google.com/presentation/d/1XmzTvjKM0iKo7vkrBV_8fWm6FHeY5rU7NPOqy5w2VtA/edit?usp=sharing)
 	
-	* We'll be working with census data in [GoogleSheets](https://docs.google.com/spreadsheets/d/1Y4hEHd7V8XWqcwIqSymaWepRfwc7j_RTge7deYDZUY4/edit?usp=sharing). I pulled several tables from the 2016 5-year American Community Survey, using FactFinder. This data is for all ZCTAs in New York state.
+	* We'll be working with census data in [GoogleSheets](https://docs.google.com/spreadsheets/d/1Y4hEHd7V8XWqcwIqSymaWepRfwc7j_RTge7deYDZUY4/edit?usp=sharing). This data is for all ZCTAs in New York state. I pulled several tables from the 2016 5-year American Community Survey, using FactFinder. Then I simplified them a bit, combined them, and imported them into GoogleSheets.
 	
 ## Resources
 
