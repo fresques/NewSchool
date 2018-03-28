@@ -12,6 +12,18 @@ hannah.fresques@propublica.org
 
 917-512-0246
 
+## Classes
+1. **Wednesday, February 14: Intro** 
+
+    * [slides](https://docs.google.com/presentation/d/1Oj-R8kiVFmJhu0OMjpZoCJi6jtjT4ecd50dVqZNUB9w/edit#slide=id.g253ed97c0b_0_0)
+
+	* We'll be working with MTA [ridership data](http://web.mta.info/nyct/facts/ridership/), specifically the average weekday ridership by station. You can see it [online](http://web.mta.info/nyct/facts/ridership/ridership_sub.htm) and work with it in [GoogleSheets](https://drive.google.com/open?id=1Z6e-Lcu-KfHfQG4bcMRoYprjGFh8BWhWaasu3JpBAL0)
+
+2. **Wednesday, March 28: more google sheets, census** 
+	* Slides from last time, plus [census slides](https://docs.google.com/presentation/d/1XmzTvjKM0iKo7vkrBV_8fWm6FHeY5rU7NPOqy5w2VtA/edit?usp=sharing)
+	
+	* We'll be working with census data in [GoogleSheets](https://docs.google.com/spreadsheets/d/1Y4hEHd7V8XWqcwIqSymaWepRfwc7j_RTge7deYDZUY4/edit?usp=sharing)
+	
 ## Resources
 
 * GoogleSheets [tutorial](https://gsuite.google.com/learning-center/products/sheets/get-started/)
@@ -37,21 +49,3 @@ hannah.fresques@propublica.org
 * [The Online News Association](https://journalists.org/) has a jobs page too.
 
 * Affinity groups: [The National Association of Black Journalists](http://www.nabj.org/), [Asian American Journalists Association](https://www.aaja.org/), [Ida B. Wells Society](http://idabwellssociety.org/), [The Association of LGBTQ Journalists](http://www.nlgja.org/), [National Association of Hispanic Journalists](http://www.nahj.org/), [Native American Journalists Association](http://www.naja.com/)
-
-
-## Classes
-1. **Wednesday, February 14: Intro** 
-
-    * [slides](https://docs.google.com/presentation/d/1Oj-R8kiVFmJhu0OMjpZoCJi6jtjT4ecd50dVqZNUB9w/edit#slide=id.g253ed97c0b_0_0)
-
-	* We'll be working with MTA [ridership data](http://web.mta.info/nyct/facts/ridership/), specifically the average weekday ridership by station. You can see it [online](http://web.mta.info/nyct/facts/ridership/ridership_sub.htm) and work with it in [GoogleSheets](https://drive.google.com/open?id=1Z6e-Lcu-KfHfQG4bcMRoYprjGFh8BWhWaasu3JpBAL0)
-
-2. **Wednesday, March 28: more google sheets, census** 
-	* Slides from last time, plus [census slides](https://docs.google.com/presentation/d/1XmzTvjKM0iKo7vkrBV_8fWm6FHeY5rU7NPOqy5w2VtA/edit?usp=sharing)
-	
-	* We'll be working with census data in [GoogleSheets](https://docs.google.com/spreadsheets/d/1Y4hEHd7V8XWqcwIqSymaWepRfwc7j_RTge7deYDZUY4/edit?usp=sharing)
-
-3. **TBD: TBD**
-
-4. **TBD: TBD**
-
