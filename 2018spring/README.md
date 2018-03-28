@@ -44,9 +44,12 @@ hannah.fresques@propublica.org
 
     * [slides](https://docs.google.com/presentation/d/1Oj-R8kiVFmJhu0OMjpZoCJi6jtjT4ecd50dVqZNUB9w/edit#slide=id.g253ed97c0b_0_0)
 
-	* We'll we working with MTA [ridership data](http://web.mta.info/nyct/facts/ridership/), specifically the average weekday ridership by station. You can see it [online](http://web.mta.info/nyct/facts/ridership/ridership_sub.htm) and work with it in [GoogleSheets](https://drive.google.com/open?id=1Z6e-Lcu-KfHfQG4bcMRoYprjGFh8BWhWaasu3JpBAL0)
+	* We'll be working with MTA [ridership data](http://web.mta.info/nyct/facts/ridership/), specifically the average weekday ridership by station. You can see it [online](http://web.mta.info/nyct/facts/ridership/ridership_sub.htm) and work with it in [GoogleSheets](https://drive.google.com/open?id=1Z6e-Lcu-KfHfQG4bcMRoYprjGFh8BWhWaasu3JpBAL0)
 
 2. **Wednesday, March 28: more google sheets, census** 
+	* Slides from last time, plus [census slides](https://docs.google.com/presentation/d/1XmzTvjKM0iKo7vkrBV_8fWm6FHeY5rU7NPOqy5w2VtA/edit?usp=sharing)
+	
+	* We'll be working with census data in [GoogleSheets](https://docs.google.com/spreadsheets/d/1Y4hEHd7V8XWqcwIqSymaWepRfwc7j_RTge7deYDZUY4/edit?usp=sharing)
 
 3. **TBD: TBD**
 
