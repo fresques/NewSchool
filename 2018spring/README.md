@@ -46,7 +46,7 @@ hannah.fresques@propublica.org
 
 	* We'll we working with MTA [ridership data](http://web.mta.info/nyct/facts/ridership/), specifically the average weekday ridership by station. You can see it [online](http://web.mta.info/nyct/facts/ridership/ridership_sub.htm) and work with it in [GoogleSheets](https://drive.google.com/open?id=1Z6e-Lcu-KfHfQG4bcMRoYprjGFh8BWhWaasu3JpBAL0)
 
-2. **TBD: more google sheets** 
+2. **Wednesday, March 28: more google sheets, census** 
 
 3. **TBD: TBD**
 
