@@ -22,7 +22,7 @@ hannah.fresques@propublica.org
 
 ## Journalism Links
 
-* [Society for News Design](https://www.snd.org/) has their [annual conference](https://nyc.snd.org/) at the end of March in the 5th Ave building
+* [Society for News Design](https://www.snd.org/)
 
 * [Source](https://source.opennews.org/) is a project from [Open News](https://opennews.org/) that highlights work by journalists who code. They have a jobs page.
 
