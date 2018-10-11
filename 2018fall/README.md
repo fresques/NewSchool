@@ -21,7 +21,7 @@ hannah.fresques@propublica.org
 
 2. **Thursday, October 11: Let's get into it**
 	
-	* [slides]() We'll talk about ways to get data, data best practices, what tools exist, etc. 
+	* [slides](https://docs.google.com/presentation/d/1FTF5RFUHIvpg549MnNhhMztJg-1Ijr5MQPzX66DwvlU/edit?usp=sharing) We'll talk about ways to get data, data best practices, what tools exist, etc. 
 	
 	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 	
