@@ -15,10 +15,17 @@ hannah.fresques@propublica.org
 ## Classes
 1. **Tuesday, September 11: Intro** 
 
-    * [slides](https://docs.google.com/presentation/d/1tXJqXZtxhkU41ckl32pEeoKGLtxCiYHqk1BWW73ML2E/edit?usp=sharing)
-
+	* [slides](https://docs.google.com/presentation/d/1tXJqXZtxhkU41ckl32pEeoKGLtxCiYHqk1BWW73ML2E/edit?usp=sharing)
+	
 	* We'll be working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1CEifs_EaGKeLeqRtqxNaXLu4kNIixzeZat9mYwyZLCA/edit?usp=sharing).
 
+2. **Thursday, October 11: Let's get into it**
+	
+	* [slides]() We'll talk about ways to get data, data best practices, what tools exist, etc. 
+	
+	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
+	
+	* Look at tweets from politicians on January 20, 2017. Tweets pulled from [here](https://data.world/bkey/politician-tweets/workspace/file?filename=pol_tweets.csv), and available to you in [this google sheet](https://docs.google.com/spreadsheets/d/1Zk0yeb6t3UcMgxZTOg5kJWFlcT0IuDhIqbgYVGoJ8tg/edit?usp=sharing).
 	
 
 ## Resources
