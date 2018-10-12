@@ -30,7 +30,7 @@ hannah.fresques@propublica.org
 
 ## Resources
 
-* GoogleSheets [tutorial](https://gsuite.google.com/learning-center/products/sheets/get-started/)
+* GoogleSheets: Video on [how to sort and filter](https://www.youtube.com/watch?v=2AHSkCUgyB4). General [tutorial](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/). Official Google [tutorial](https://gsuite.google.com/learning-center/products/sheets/get-started/)
 
 * NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 
