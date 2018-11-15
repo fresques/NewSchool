@@ -31,7 +31,7 @@ hannah.fresques@propublica.org
 	
 	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 	
-	* Look at census data on several NYC area counties in [this google sheet](https://docs.google.com/spreadsheets/d/1Zk0yeb6t3UcMgxZTOg5kJWFlcT0IuDhIqbgYVGoJ8tg/edit?usp=sharing).
+	* Look at census data on several NYC area counties in [this google sheet](https://docs.google.com/spreadsheets/d/1GNS22e_V4aQ6pD848ptUn2bmsAWO_lHb7xRgz_aI8is/edit?usp=sharing).
 	
 	
 ## Resources
