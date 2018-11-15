@@ -26,8 +26,16 @@ hannah.fresques@propublica.org
 	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 	
 	* Look at tweets from politicians on January 20, 2017. Tweets pulled from [here](https://data.world/bkey/politician-tweets/workspace/file?filename=pol_tweets.csv), and available to you in [this google sheet](https://docs.google.com/spreadsheets/d/1Zk0yeb6t3UcMgxZTOg5kJWFlcT0IuDhIqbgYVGoJ8tg/edit?usp=sharing).
-	
 
+3. **Thursday, November 15: The Census**
+
+	* [slides](https://docs.google.com/presentation/d/1DOGtf0YeojR0CTt8DaB4gWWEItJFzHEtnT4KcJEsz6s/edit?usp=sharing) about the Census. 
+	
+	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
+	
+	* Look at census data on several NYC area counties in [this google sheet](https://docs.google.com/spreadsheets/d/1Zk0yeb6t3UcMgxZTOg5kJWFlcT0IuDhIqbgYVGoJ8tg/edit?usp=sharing).
+	
+	
 ## Resources
 
 * GoogleSheets: 
