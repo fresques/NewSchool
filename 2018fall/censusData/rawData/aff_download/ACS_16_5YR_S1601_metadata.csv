@@ -1,0 +1,291 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Population 5 years and over
+HC01_MOE_VC01,Total; Margin of Error; Population 5 years and over
+HC02_EST_VC01,Percent; Estimate; Population 5 years and over
+HC02_MOE_VC01,Percent; Margin of Error; Population 5 years and over
+HC03_EST_VC01,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; Population 5 years and over"
+HC03_MOE_VC01,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; Population 5 years and over"
+HC04_EST_VC01,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; Population 5 years and over"
+HC04_MOE_VC01,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; Population 5 years and over"
+HC05_EST_VC01,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; Population 5 years and over"
+HC05_MOE_VC01,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; Population 5 years and over"
+HC06_EST_VC01,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; Population 5 years and over"
+HC06_MOE_VC01,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; Population 5 years and over"
+HC01_EST_VC02,Total; Estimate; Speak only English
+HC01_MOE_VC02,Total; Margin of Error; Speak only English
+HC02_EST_VC02,Percent; Estimate; Speak only English
+HC02_MOE_VC02,Percent; Margin of Error; Speak only English
+HC03_EST_VC02,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; Speak only English"
+HC03_MOE_VC02,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; Speak only English"
+HC04_EST_VC02,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; Speak only English"
+HC04_MOE_VC02,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; Speak only English"
+HC05_EST_VC02,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; Speak only English"
+HC05_MOE_VC02,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; Speak only English"
+HC06_EST_VC02,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; Speak only English"
+HC06_MOE_VC02,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; Speak only English"
+HC01_EST_VC03,Total; Estimate; Speak a language other than English
+HC01_MOE_VC03,Total; Margin of Error; Speak a language other than English
+HC02_EST_VC03,Percent; Estimate; Speak a language other than English
+HC02_MOE_VC03,Percent; Margin of Error; Speak a language other than English
+HC03_EST_VC03,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; Speak a language other than English"
+HC03_MOE_VC03,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; Speak a language other than English"
+HC04_EST_VC03,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; Speak a language other than English"
+HC04_MOE_VC03,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; Speak a language other than English"
+HC05_EST_VC03,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; Speak a language other than English"
+HC05_MOE_VC03,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; Speak a language other than English"
+HC06_EST_VC03,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; Speak a language other than English"
+HC06_MOE_VC03,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; Speak a language other than English"
+HC01_EST_VC06,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish
+HC01_MOE_VC06,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish
+HC02_EST_VC06,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish
+HC02_MOE_VC06,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish
+HC03_EST_VC06,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC03_MOE_VC06,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC04_EST_VC06,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC04_MOE_VC06,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC05_EST_VC06,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC05_MOE_VC06,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC06_EST_VC06,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC06_MOE_VC06,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish"
+HC01_EST_VC07,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old
+HC01_MOE_VC07,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old
+HC02_EST_VC07,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old
+HC02_MOE_VC07,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old
+HC03_EST_VC07,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC03_MOE_VC07,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC04_EST_VC07,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC04_MOE_VC07,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC05_EST_VC07,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC05_MOE_VC07,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC06_EST_VC07,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC06_MOE_VC07,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 5 to 17 years old"
+HC01_EST_VC08,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old
+HC01_MOE_VC08,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old
+HC02_EST_VC08,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old
+HC02_MOE_VC08,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old
+HC03_EST_VC08,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC03_MOE_VC08,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC04_EST_VC08,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC04_MOE_VC08,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC05_EST_VC08,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC05_MOE_VC08,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC06_EST_VC08,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC06_MOE_VC08,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 18 to 64 years old"
+HC01_EST_VC09,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over
+HC01_MOE_VC09,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over
+HC02_EST_VC09,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over
+HC02_MOE_VC09,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over
+HC03_EST_VC09,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC03_MOE_VC09,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC04_EST_VC09,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC04_MOE_VC09,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC05_EST_VC09,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC05_MOE_VC09,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC06_EST_VC09,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC06_MOE_VC09,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Spanish - 65 years old and over"
+HC01_EST_VC10,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages
+HC01_MOE_VC10,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages
+HC02_EST_VC10,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages
+HC02_MOE_VC10,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages
+HC03_EST_VC10,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC03_MOE_VC10,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC04_EST_VC10,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC04_MOE_VC10,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC05_EST_VC10,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC05_MOE_VC10,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC06_EST_VC10,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC06_MOE_VC10,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages"
+HC01_EST_VC11,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old
+HC01_MOE_VC11,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old
+HC02_EST_VC11,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old
+HC02_MOE_VC11,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old
+HC03_EST_VC11,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC03_MOE_VC11,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC04_EST_VC11,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC04_MOE_VC11,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC05_EST_VC11,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC05_MOE_VC11,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC06_EST_VC11,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC06_MOE_VC11,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 5 to 17 years old"
+HC01_EST_VC12,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old
+HC01_MOE_VC12,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old
+HC02_EST_VC12,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old
+HC02_MOE_VC12,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old
+HC03_EST_VC12,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC03_MOE_VC12,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC04_EST_VC12,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC04_MOE_VC12,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC05_EST_VC12,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC05_MOE_VC12,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC06_EST_VC12,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC06_MOE_VC12,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 18 to 64 years old"
+HC01_EST_VC13,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over
+HC01_MOE_VC13,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over
+HC02_EST_VC13,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over
+HC02_MOE_VC13,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over
+HC03_EST_VC13,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC03_MOE_VC13,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC04_EST_VC13,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC04_MOE_VC13,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC05_EST_VC13,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC05_MOE_VC13,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC06_EST_VC13,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC06_MOE_VC13,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other Indo-European languages - 65 years old and over"
+HC01_EST_VC14,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages
+HC01_MOE_VC14,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages
+HC02_EST_VC14,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages
+HC02_MOE_VC14,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages
+HC03_EST_VC14,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC03_MOE_VC14,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC04_EST_VC14,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC04_MOE_VC14,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC05_EST_VC14,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC05_MOE_VC14,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC06_EST_VC14,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC06_MOE_VC14,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages"
+HC01_EST_VC15,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old
+HC01_MOE_VC15,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old
+HC02_EST_VC15,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old
+HC02_MOE_VC15,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old
+HC03_EST_VC15,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC03_MOE_VC15,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC04_EST_VC15,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC04_MOE_VC15,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC05_EST_VC15,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC05_MOE_VC15,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC06_EST_VC15,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC06_MOE_VC15,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 5 to 17 years old"
+HC01_EST_VC16,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old
+HC01_MOE_VC16,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old
+HC02_EST_VC16,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old
+HC02_MOE_VC16,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old
+HC03_EST_VC16,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC03_MOE_VC16,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC04_EST_VC16,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC04_MOE_VC16,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC05_EST_VC16,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC05_MOE_VC16,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC06_EST_VC16,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC06_MOE_VC16,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 18 to 64 years old"
+HC01_EST_VC17,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over
+HC01_MOE_VC17,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over
+HC02_EST_VC17,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over
+HC02_MOE_VC17,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over
+HC03_EST_VC17,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC03_MOE_VC17,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC04_EST_VC17,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC04_MOE_VC17,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC05_EST_VC17,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC05_MOE_VC17,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC06_EST_VC17,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC06_MOE_VC17,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Asian and Pacific Island languages - 65 years old and over"
+HC01_EST_VC18,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages
+HC01_MOE_VC18,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages
+HC02_EST_VC18,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages
+HC02_MOE_VC18,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages
+HC03_EST_VC18,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC03_MOE_VC18,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC04_EST_VC18,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC04_MOE_VC18,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC05_EST_VC18,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC05_MOE_VC18,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC06_EST_VC18,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC06_MOE_VC18,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages"
+HC01_EST_VC19,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old
+HC01_MOE_VC19,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old
+HC02_EST_VC19,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old
+HC02_MOE_VC19,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old
+HC03_EST_VC19,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC03_MOE_VC19,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC04_EST_VC19,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC04_MOE_VC19,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC05_EST_VC19,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC05_MOE_VC19,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC06_EST_VC19,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC06_MOE_VC19,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 5 to 17 years old"
+HC01_EST_VC20,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old
+HC01_MOE_VC20,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old
+HC02_EST_VC20,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old
+HC02_MOE_VC20,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old
+HC03_EST_VC20,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC03_MOE_VC20,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC04_EST_VC20,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC04_MOE_VC20,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC05_EST_VC20,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC05_MOE_VC20,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC06_EST_VC20,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC06_MOE_VC20,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 18 to 64 years old"
+HC01_EST_VC21,Total; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over
+HC01_MOE_VC21,Total; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over
+HC02_EST_VC21,Percent; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over
+HC02_MOE_VC21,Percent; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over
+HC03_EST_VC21,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC03_MOE_VC21,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC04_EST_VC21,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC04_MOE_VC21,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC05_EST_VC21,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC05_MOE_VC21,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC06_EST_VC21,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC06_MOE_VC21,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; SPEAK A LANGUAGE OTHER THAN ENGLISH - Other languages - 65 years old and over"
+HC01_EST_VC24,Total; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over
+HC01_MOE_VC24,Total; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over
+HC02_EST_VC24,Percent; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over
+HC02_MOE_VC24,Percent; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over
+HC03_EST_VC24,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC03_MOE_VC24,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC04_EST_VC24,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC04_MOE_VC24,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC05_EST_VC24,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC05_MOE_VC24,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC06_EST_VC24,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC06_MOE_VC24,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over"
+HC01_EST_VC25,Total; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English
+HC01_MOE_VC25,Total; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English
+HC02_EST_VC25,Percent; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English
+HC02_MOE_VC25,Percent; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English
+HC03_EST_VC25,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC03_MOE_VC25,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC04_EST_VC25,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC04_MOE_VC25,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC05_EST_VC25,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC05_MOE_VC25,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC06_EST_VC25,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC06_MOE_VC25,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak only English"
+HC01_EST_VC26,Total; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English
+HC01_MOE_VC26,Total; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English
+HC02_EST_VC26,Percent; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English
+HC02_MOE_VC26,Percent; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English
+HC03_EST_VC26,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC03_MOE_VC26,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC04_EST_VC26,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC04_MOE_VC26,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC05_EST_VC26,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC05_MOE_VC26,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC06_EST_VC26,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC06_MOE_VC26,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English"
+HC01_EST_VC27,Total; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish
+HC01_MOE_VC27,Total; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish
+HC02_EST_VC27,Percent; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish
+HC02_MOE_VC27,Percent; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish
+HC03_EST_VC27,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC03_MOE_VC27,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC04_EST_VC27,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC04_MOE_VC27,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC05_EST_VC27,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC05_MOE_VC27,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC06_EST_VC27,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC06_MOE_VC27,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Spanish"
+HC01_EST_VC28,Total; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages
+HC01_MOE_VC28,Total; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages
+HC02_EST_VC28,Percent; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages
+HC02_MOE_VC28,Percent; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages
+HC03_EST_VC28,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"
+HC03_MOE_VC28,"Percent of specified language speakers  - Speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"
+HC04_EST_VC28,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"
+HC04_MOE_VC28,"Percent of specified language speakers  - Percent speak English only or speak English ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"
+HC05_EST_VC28,"Percent of specified language speakers  - Speak English  less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"
+HC05_MOE_VC28,"Percent of specified language speakers  - Speak English  less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"
+HC06_EST_VC28,"Percent of specified language speakers  - Percent speak English less than ""very well""; Estimate; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"
+HC06_MOE_VC28,"Percent of specified language speakers  - Percent speak English less than ""very well""; Margin of Error; CITIZENS 18 YEARS AND OVER - All citizens 18 years old and over - Speak a language other than English - Other languages"

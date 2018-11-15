@@ -1,0 +1,219 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Total population
+HC01_MOE_VC01,Total; Margin of Error; Total population
+HC02_EST_VC01,Male; Estimate; Total population
+HC02_MOE_VC01,Male; Margin of Error; Total population
+HC03_EST_VC01,Female; Estimate; Total population
+HC03_MOE_VC01,Female; Margin of Error; Total population
+HC01_EST_VC03,Total; Estimate; Total population - AGE - Under 5 years
+HC01_MOE_VC03,Total; Margin of Error; Total population - AGE - Under 5 years
+HC02_EST_VC03,Male; Estimate; Total population - AGE - Under 5 years
+HC02_MOE_VC03,Male; Margin of Error; Total population - AGE - Under 5 years
+HC03_EST_VC03,Female; Estimate; Total population - AGE - Under 5 years
+HC03_MOE_VC03,Female; Margin of Error; Total population - AGE - Under 5 years
+HC01_EST_VC04,Total; Estimate; Total population - AGE - 5 to 9 years
+HC01_MOE_VC04,Total; Margin of Error; Total population - AGE - 5 to 9 years
+HC02_EST_VC04,Male; Estimate; Total population - AGE - 5 to 9 years
+HC02_MOE_VC04,Male; Margin of Error; Total population - AGE - 5 to 9 years
+HC03_EST_VC04,Female; Estimate; Total population - AGE - 5 to 9 years
+HC03_MOE_VC04,Female; Margin of Error; Total population - AGE - 5 to 9 years
+HC01_EST_VC05,Total; Estimate; Total population - AGE - 10 to 14 years
+HC01_MOE_VC05,Total; Margin of Error; Total population - AGE - 10 to 14 years
+HC02_EST_VC05,Male; Estimate; Total population - AGE - 10 to 14 years
+HC02_MOE_VC05,Male; Margin of Error; Total population - AGE - 10 to 14 years
+HC03_EST_VC05,Female; Estimate; Total population - AGE - 10 to 14 years
+HC03_MOE_VC05,Female; Margin of Error; Total population - AGE - 10 to 14 years
+HC01_EST_VC06,Total; Estimate; Total population - AGE - 15 to 19 years
+HC01_MOE_VC06,Total; Margin of Error; Total population - AGE - 15 to 19 years
+HC02_EST_VC06,Male; Estimate; Total population - AGE - 15 to 19 years
+HC02_MOE_VC06,Male; Margin of Error; Total population - AGE - 15 to 19 years
+HC03_EST_VC06,Female; Estimate; Total population - AGE - 15 to 19 years
+HC03_MOE_VC06,Female; Margin of Error; Total population - AGE - 15 to 19 years
+HC01_EST_VC07,Total; Estimate; Total population - AGE - 20 to 24 years
+HC01_MOE_VC07,Total; Margin of Error; Total population - AGE - 20 to 24 years
+HC02_EST_VC07,Male; Estimate; Total population - AGE - 20 to 24 years
+HC02_MOE_VC07,Male; Margin of Error; Total population - AGE - 20 to 24 years
+HC03_EST_VC07,Female; Estimate; Total population - AGE - 20 to 24 years
+HC03_MOE_VC07,Female; Margin of Error; Total population - AGE - 20 to 24 years
+HC01_EST_VC08,Total; Estimate; Total population - AGE - 25 to 29 years
+HC01_MOE_VC08,Total; Margin of Error; Total population - AGE - 25 to 29 years
+HC02_EST_VC08,Male; Estimate; Total population - AGE - 25 to 29 years
+HC02_MOE_VC08,Male; Margin of Error; Total population - AGE - 25 to 29 years
+HC03_EST_VC08,Female; Estimate; Total population - AGE - 25 to 29 years
+HC03_MOE_VC08,Female; Margin of Error; Total population - AGE - 25 to 29 years
+HC01_EST_VC09,Total; Estimate; Total population - AGE - 30 to 34 years
+HC01_MOE_VC09,Total; Margin of Error; Total population - AGE - 30 to 34 years
+HC02_EST_VC09,Male; Estimate; Total population - AGE - 30 to 34 years
+HC02_MOE_VC09,Male; Margin of Error; Total population - AGE - 30 to 34 years
+HC03_EST_VC09,Female; Estimate; Total population - AGE - 30 to 34 years
+HC03_MOE_VC09,Female; Margin of Error; Total population - AGE - 30 to 34 years
+HC01_EST_VC10,Total; Estimate; Total population - AGE - 35 to 39 years
+HC01_MOE_VC10,Total; Margin of Error; Total population - AGE - 35 to 39 years
+HC02_EST_VC10,Male; Estimate; Total population - AGE - 35 to 39 years
+HC02_MOE_VC10,Male; Margin of Error; Total population - AGE - 35 to 39 years
+HC03_EST_VC10,Female; Estimate; Total population - AGE - 35 to 39 years
+HC03_MOE_VC10,Female; Margin of Error; Total population - AGE - 35 to 39 years
+HC01_EST_VC11,Total; Estimate; Total population - AGE - 40 to 44 years
+HC01_MOE_VC11,Total; Margin of Error; Total population - AGE - 40 to 44 years
+HC02_EST_VC11,Male; Estimate; Total population - AGE - 40 to 44 years
+HC02_MOE_VC11,Male; Margin of Error; Total population - AGE - 40 to 44 years
+HC03_EST_VC11,Female; Estimate; Total population - AGE - 40 to 44 years
+HC03_MOE_VC11,Female; Margin of Error; Total population - AGE - 40 to 44 years
+HC01_EST_VC12,Total; Estimate; Total population - AGE - 45 to 49 years
+HC01_MOE_VC12,Total; Margin of Error; Total population - AGE - 45 to 49 years
+HC02_EST_VC12,Male; Estimate; Total population - AGE - 45 to 49 years
+HC02_MOE_VC12,Male; Margin of Error; Total population - AGE - 45 to 49 years
+HC03_EST_VC12,Female; Estimate; Total population - AGE - 45 to 49 years
+HC03_MOE_VC12,Female; Margin of Error; Total population - AGE - 45 to 49 years
+HC01_EST_VC13,Total; Estimate; Total population - AGE - 50 to 54 years
+HC01_MOE_VC13,Total; Margin of Error; Total population - AGE - 50 to 54 years
+HC02_EST_VC13,Male; Estimate; Total population - AGE - 50 to 54 years
+HC02_MOE_VC13,Male; Margin of Error; Total population - AGE - 50 to 54 years
+HC03_EST_VC13,Female; Estimate; Total population - AGE - 50 to 54 years
+HC03_MOE_VC13,Female; Margin of Error; Total population - AGE - 50 to 54 years
+HC01_EST_VC14,Total; Estimate; Total population - AGE - 55 to 59 years
+HC01_MOE_VC14,Total; Margin of Error; Total population - AGE - 55 to 59 years
+HC02_EST_VC14,Male; Estimate; Total population - AGE - 55 to 59 years
+HC02_MOE_VC14,Male; Margin of Error; Total population - AGE - 55 to 59 years
+HC03_EST_VC14,Female; Estimate; Total population - AGE - 55 to 59 years
+HC03_MOE_VC14,Female; Margin of Error; Total population - AGE - 55 to 59 years
+HC01_EST_VC15,Total; Estimate; Total population - AGE - 60 to 64 years
+HC01_MOE_VC15,Total; Margin of Error; Total population - AGE - 60 to 64 years
+HC02_EST_VC15,Male; Estimate; Total population - AGE - 60 to 64 years
+HC02_MOE_VC15,Male; Margin of Error; Total population - AGE - 60 to 64 years
+HC03_EST_VC15,Female; Estimate; Total population - AGE - 60 to 64 years
+HC03_MOE_VC15,Female; Margin of Error; Total population - AGE - 60 to 64 years
+HC01_EST_VC16,Total; Estimate; Total population - AGE - 65 to 69 years
+HC01_MOE_VC16,Total; Margin of Error; Total population - AGE - 65 to 69 years
+HC02_EST_VC16,Male; Estimate; Total population - AGE - 65 to 69 years
+HC02_MOE_VC16,Male; Margin of Error; Total population - AGE - 65 to 69 years
+HC03_EST_VC16,Female; Estimate; Total population - AGE - 65 to 69 years
+HC03_MOE_VC16,Female; Margin of Error; Total population - AGE - 65 to 69 years
+HC01_EST_VC17,Total; Estimate; Total population - AGE - 70 to 74 years
+HC01_MOE_VC17,Total; Margin of Error; Total population - AGE - 70 to 74 years
+HC02_EST_VC17,Male; Estimate; Total population - AGE - 70 to 74 years
+HC02_MOE_VC17,Male; Margin of Error; Total population - AGE - 70 to 74 years
+HC03_EST_VC17,Female; Estimate; Total population - AGE - 70 to 74 years
+HC03_MOE_VC17,Female; Margin of Error; Total population - AGE - 70 to 74 years
+HC01_EST_VC18,Total; Estimate; Total population - AGE - 75 to 79 years
+HC01_MOE_VC18,Total; Margin of Error; Total population - AGE - 75 to 79 years
+HC02_EST_VC18,Male; Estimate; Total population - AGE - 75 to 79 years
+HC02_MOE_VC18,Male; Margin of Error; Total population - AGE - 75 to 79 years
+HC03_EST_VC18,Female; Estimate; Total population - AGE - 75 to 79 years
+HC03_MOE_VC18,Female; Margin of Error; Total population - AGE - 75 to 79 years
+HC01_EST_VC19,Total; Estimate; Total population - AGE - 80 to 84 years
+HC01_MOE_VC19,Total; Margin of Error; Total population - AGE - 80 to 84 years
+HC02_EST_VC19,Male; Estimate; Total population - AGE - 80 to 84 years
+HC02_MOE_VC19,Male; Margin of Error; Total population - AGE - 80 to 84 years
+HC03_EST_VC19,Female; Estimate; Total population - AGE - 80 to 84 years
+HC03_MOE_VC19,Female; Margin of Error; Total population - AGE - 80 to 84 years
+HC01_EST_VC20,Total; Estimate; Total population - AGE - 85 years and over
+HC01_MOE_VC20,Total; Margin of Error; Total population - AGE - 85 years and over
+HC02_EST_VC20,Male; Estimate; Total population - AGE - 85 years and over
+HC02_MOE_VC20,Male; Margin of Error; Total population - AGE - 85 years and over
+HC03_EST_VC20,Female; Estimate; Total population - AGE - 85 years and over
+HC03_MOE_VC20,Female; Margin of Error; Total population - AGE - 85 years and over
+HC01_EST_VC22,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 5 to 14 years
+HC01_MOE_VC22,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 5 to 14 years
+HC02_EST_VC22,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 5 to 14 years
+HC02_MOE_VC22,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 5 to 14 years
+HC03_EST_VC22,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 5 to 14 years
+HC03_MOE_VC22,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 5 to 14 years
+HC01_EST_VC23,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 15 to 17 years
+HC01_MOE_VC23,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 15 to 17 years
+HC02_EST_VC23,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 15 to 17 years
+HC02_MOE_VC23,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 15 to 17 years
+HC03_EST_VC23,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 15 to 17 years
+HC03_MOE_VC23,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 15 to 17 years
+HC01_EST_VC24,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 18 to 24 years
+HC01_MOE_VC24,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 18 to 24 years
+HC02_EST_VC24,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 18 to 24 years
+HC02_MOE_VC24,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 18 to 24 years
+HC03_EST_VC24,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 18 to 24 years
+HC03_MOE_VC24,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 18 to 24 years
+HC01_EST_VC25,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 15 to 44 years
+HC01_MOE_VC25,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 15 to 44 years
+HC02_EST_VC25,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 15 to 44 years
+HC02_MOE_VC25,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 15 to 44 years
+HC03_EST_VC25,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 15 to 44 years
+HC03_MOE_VC25,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 15 to 44 years
+HC01_EST_VC26,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 16 years and over
+HC01_MOE_VC26,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 16 years and over
+HC02_EST_VC26,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 16 years and over
+HC02_MOE_VC26,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 16 years and over
+HC03_EST_VC26,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 16 years and over
+HC03_MOE_VC26,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 16 years and over
+HC01_EST_VC27,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 18 years and over
+HC01_MOE_VC27,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 18 years and over
+HC02_EST_VC27,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 18 years and over
+HC02_MOE_VC27,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 18 years and over
+HC03_EST_VC27,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 18 years and over
+HC03_MOE_VC27,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 18 years and over
+HC01_EST_VC28,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 60 years and over
+HC01_MOE_VC28,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 60 years and over
+HC02_EST_VC28,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 60 years and over
+HC02_MOE_VC28,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 60 years and over
+HC03_EST_VC28,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 60 years and over
+HC03_MOE_VC28,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 60 years and over
+HC01_EST_VC29,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 62 years and over
+HC01_MOE_VC29,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 62 years and over
+HC02_EST_VC29,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 62 years and over
+HC02_MOE_VC29,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 62 years and over
+HC03_EST_VC29,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 62 years and over
+HC03_MOE_VC29,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 62 years and over
+HC01_EST_VC30,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 65 years and over
+HC01_MOE_VC30,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 65 years and over
+HC02_EST_VC30,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 65 years and over
+HC02_MOE_VC30,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 65 years and over
+HC03_EST_VC30,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 65 years and over
+HC03_MOE_VC30,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 65 years and over
+HC01_EST_VC31,Total; Estimate; Total population - SELECTED AGE CATEGORIES - 75 years and over
+HC01_MOE_VC31,Total; Margin of Error; Total population - SELECTED AGE CATEGORIES - 75 years and over
+HC02_EST_VC31,Male; Estimate; Total population - SELECTED AGE CATEGORIES - 75 years and over
+HC02_MOE_VC31,Male; Margin of Error; Total population - SELECTED AGE CATEGORIES - 75 years and over
+HC03_EST_VC31,Female; Estimate; Total population - SELECTED AGE CATEGORIES - 75 years and over
+HC03_MOE_VC31,Female; Margin of Error; Total population - SELECTED AGE CATEGORIES - 75 years and over
+HC01_EST_VC33,Total; Estimate; Total population - SUMMARY INDICATORS - Median age (years)
+HC01_MOE_VC33,Total; Margin of Error; Total population - SUMMARY INDICATORS - Median age (years)
+HC02_EST_VC33,Male; Estimate; Total population - SUMMARY INDICATORS - Median age (years)
+HC02_MOE_VC33,Male; Margin of Error; Total population - SUMMARY INDICATORS - Median age (years)
+HC03_EST_VC33,Female; Estimate; Total population - SUMMARY INDICATORS - Median age (years)
+HC03_MOE_VC33,Female; Margin of Error; Total population - SUMMARY INDICATORS - Median age (years)
+HC01_EST_VC34,Total; Estimate; Total population - SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC01_MOE_VC34,Total; Margin of Error; Total population - SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC02_EST_VC34,Male; Estimate; Total population - SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC02_MOE_VC34,Male; Margin of Error; Total population - SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC03_EST_VC34,Female; Estimate; Total population - SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC03_MOE_VC34,Female; Margin of Error; Total population - SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC01_EST_VC35,Total; Estimate; Total population - SUMMARY INDICATORS - Age dependency ratio
+HC01_MOE_VC35,Total; Margin of Error; Total population - SUMMARY INDICATORS - Age dependency ratio
+HC02_EST_VC35,Male; Estimate; Total population - SUMMARY INDICATORS - Age dependency ratio
+HC02_MOE_VC35,Male; Margin of Error; Total population - SUMMARY INDICATORS - Age dependency ratio
+HC03_EST_VC35,Female; Estimate; Total population - SUMMARY INDICATORS - Age dependency ratio
+HC03_MOE_VC35,Female; Margin of Error; Total population - SUMMARY INDICATORS - Age dependency ratio
+HC01_EST_VC36,Total; Estimate; Total population - SUMMARY INDICATORS - Old-age dependency ratio
+HC01_MOE_VC36,Total; Margin of Error; Total population - SUMMARY INDICATORS - Old-age dependency ratio
+HC02_EST_VC36,Male; Estimate; Total population - SUMMARY INDICATORS - Old-age dependency ratio
+HC02_MOE_VC36,Male; Margin of Error; Total population - SUMMARY INDICATORS - Old-age dependency ratio
+HC03_EST_VC36,Female; Estimate; Total population - SUMMARY INDICATORS - Old-age dependency ratio
+HC03_MOE_VC36,Female; Margin of Error; Total population - SUMMARY INDICATORS - Old-age dependency ratio
+HC01_EST_VC37,Total; Estimate; Total population - SUMMARY INDICATORS - Child dependency ratio
+HC01_MOE_VC37,Total; Margin of Error; Total population - SUMMARY INDICATORS - Child dependency ratio
+HC02_EST_VC37,Male; Estimate; Total population - SUMMARY INDICATORS - Child dependency ratio
+HC02_MOE_VC37,Male; Margin of Error; Total population - SUMMARY INDICATORS - Child dependency ratio
+HC03_EST_VC37,Female; Estimate; Total population - SUMMARY INDICATORS - Child dependency ratio
+HC03_MOE_VC37,Female; Margin of Error; Total population - SUMMARY INDICATORS - Child dependency ratio
+HC01_EST_VC39,Total; Estimate; Total population - PERCENT IMPUTED - Sex
+HC01_MOE_VC39,Total; Margin of Error; Total population - PERCENT IMPUTED - Sex
+HC02_EST_VC39,Male; Estimate; Total population - PERCENT IMPUTED - Sex
+HC02_MOE_VC39,Male; Margin of Error; Total population - PERCENT IMPUTED - Sex
+HC03_EST_VC39,Female; Estimate; Total population - PERCENT IMPUTED - Sex
+HC03_MOE_VC39,Female; Margin of Error; Total population - PERCENT IMPUTED - Sex
+HC01_EST_VC40,Total; Estimate; Total population - PERCENT IMPUTED - Age
+HC01_MOE_VC40,Total; Margin of Error; Total population - PERCENT IMPUTED - Age
+HC02_EST_VC40,Male; Estimate; Total population - PERCENT IMPUTED - Age
+HC02_MOE_VC40,Male; Margin of Error; Total population - PERCENT IMPUTED - Age
+HC03_EST_VC40,Female; Estimate; Total population - PERCENT IMPUTED - Age
+HC03_MOE_VC40,Female; Margin of Error; Total population - PERCENT IMPUTED - Age
