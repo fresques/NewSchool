@@ -23,8 +23,6 @@ hannah.fresques@propublica.org
 	
 	* [slides](https://docs.google.com/presentation/d/1FTF5RFUHIvpg549MnNhhMztJg-1Ijr5MQPzX66DwvlU/edit?usp=sharing) We'll talk about ways to get data, data best practices, what tools exist, etc. 
 	
-	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
-	
 	* Look at tweets from politicians on January 20, 2017. Tweets pulled from [here](https://data.world/bkey/politician-tweets/workspace/file?filename=pol_tweets.csv), and available to you in [this google sheet](https://docs.google.com/spreadsheets/d/1Zk0yeb6t3UcMgxZTOg5kJWFlcT0IuDhIqbgYVGoJ8tg/edit?usp=sharing).
 
 3. **Thursday, November 15: The Census**
