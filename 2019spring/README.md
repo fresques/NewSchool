@@ -1,4 +1,4 @@
-# Data Journalism
+# Data Driven Journalism
 News Narrative and Design I, with Blake Eskin
 
 The New School
