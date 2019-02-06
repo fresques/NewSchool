@@ -17,7 +17,7 @@ hannah.fresques@propublica.org
 
 	* [slides](https://docs.google.com/presentation/d/1sK1uzTsI5Jyd31Mcnh2x6eHHOHvcjRNj0ZbekHDXWX0/edit?usp=sharing)
 	
-	* We'll be working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). Their data is [here](https://drive.google.com/open?id=1MLZh5valDuwnSu9-fRlRuQVS5-AoWY2e). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1gbsrvWQ1fVWsYHJeK0rvSv08X5zNMr25i4QjtLK9bbY/edit?usp=sharing).
+	* We'll be working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). Their data is [here](https://docs.google.com/spreadsheets/d/1HnFCO_bO04GUbQ_dPmoNI7vhczKUIU4kWN-knoWi4Ew/edit?usp=sharing). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1gbsrvWQ1fVWsYHJeK0rvSv08X5zNMr25i4QjtLK9bbY/edit?usp=sharing).
 
 2. **Wednesday, February 27: Let's get into it**
 	
