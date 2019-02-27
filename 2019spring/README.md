@@ -21,9 +21,11 @@ hannah.fresques@propublica.org
 
 2. **Wednesday, February 27: Let's get into it**
 	
-	* [slides]() We'll talk about ways to get data, data best practices, what tools exist, etc. 
+	* You looked at [Since Parkland](https://sinceparkland.org/) before class.
 	
-	* work with TBD dataset
+	* [slides](https://docs.google.com/presentation/d/1klp_-u1V7O_KrTFSVwdIpKGEfcPG3HVZmPQKr7avpHo/edit?usp=sharing) We'll talk about ways to get data, data best practices, what tools exist, etc. 
+	
+	* We'll continue to work with the pockets data from last class. Open it up [here](https://docs.google.com/spreadsheets/d/1HnFCO_bO04GUbQ_dPmoNI7vhczKUIU4kWN-knoWi4Ew/edit?usp=sharing).
 
 3. **date TBD: The Census**
 
