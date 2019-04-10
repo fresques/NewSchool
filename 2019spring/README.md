@@ -27,11 +27,13 @@ hannah.fresques@propublica.org
 	
 	* We'll continue to work with the pockets data from last class. Open it up [here](https://docs.google.com/spreadsheets/d/1HnFCO_bO04GUbQ_dPmoNI7vhczKUIU4kWN-knoWi4Ew/edit?usp=sharing).
 
-3. **Wednesday, April 10: The Census**
+3. **Wednesday, April 10: The Census & NYC Open Data**
 
 	* [slides](https://docs.google.com/presentation/d/1m024DrP2_lNhFE2DEnA55bcgGZQxJuArofz-zkWDP_I/edit?usp=sharing) about the Census. 
 	
 	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
+	
+	* We'll work with data I pulled from the American Community Survey. It's in google sheets [here](https://docs.google.com/spreadsheets/d/1yhQJUrnz3ZPb-gvl-ePUT005oTqHGvXmClzvjYpxnzY/edit?usp=sharing).
 	
 	
 ## Resources
