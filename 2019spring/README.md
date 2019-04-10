@@ -27,9 +27,9 @@ hannah.fresques@propublica.org
 	
 	* We'll continue to work with the pockets data from last class. Open it up [here](https://docs.google.com/spreadsheets/d/1HnFCO_bO04GUbQ_dPmoNI7vhczKUIU4kWN-knoWi4Ew/edit?usp=sharing).
 
-3. **date TBD: The Census**
+3. **Wednesday, April 10: The Census**
 
-	* [slides]() about the Census. 
+	* [slides](https://docs.google.com/presentation/d/1m024DrP2_lNhFE2DEnA55bcgGZQxJuArofz-zkWDP_I/edit?usp=sharing) about the Census. 
 	
 	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 	
