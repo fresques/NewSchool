@@ -15,9 +15,9 @@ hannah.fresques@propublica.org
 ## Classes
 1. **Thursday, September 12: Intro** 
 
-	* [slides](https://docs.google.com/presentation/d/1sK1uzTsI5Jyd31Mcnh2x6eHHOHvcjRNj0ZbekHDXWX0/edit?usp=sharing)
+	* [slides](https://docs.google.com/presentation/d/13ZOKIvIK0nEqAZIAmmN4B1pC8hkKDBnkpuTdDD-7rTs/edit#slide=id.p)
 	
-	* We'll be working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). Their data is [here](https://docs.google.com/spreadsheets/d/1HnFCO_bO04GUbQ_dPmoNI7vhczKUIU4kWN-knoWi4Ew/edit?usp=sharing). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1gbsrvWQ1fVWsYHJeK0rvSv08X5zNMr25i4QjtLK9bbY/edit?usp=sharing).
+	* We'll be working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). Their data is [here](https://docs.google.com/spreadsheets/d/1vJrndtT4DZ1rIh60D5RMTIdHeNH6XPVloZmIhh0QYV0/edit?usp=sharing). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1G-k56Lmw2h-9aeEtABqKvrlpkqdvWktjc7_jIBq-_LU/edit#gid=1270903360).
 
 2. **DATE TK: Let's get into it**
 	
