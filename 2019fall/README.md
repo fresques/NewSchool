@@ -62,6 +62,8 @@ hannah.fresques@propublica.org
 
 * The [News Nerdery](http://newsnerdery.org/) slack channel is pretty active and has a jobs channel and a career advice channel.
 
+* Free online [class](https://journalismcourses.org/DATA0819.html) aka MOOC on data journalism and visualization. 
+
 * [The Online News Association](https://journalists.org/) has a jobs page too.
 
 * Affinity groups: [The National Association of Black Journalists](http://www.nabj.org/), [Asian American Journalists Association](https://www.aaja.org/), [Ida B. Wells Society](http://idabwellssociety.org/), [The Association of LGBTQ Journalists](http://www.nlgja.org/), [National Association of Hispanic Journalists](http://www.nahj.org/), [Native American Journalists Association](http://www.naja.com/)
