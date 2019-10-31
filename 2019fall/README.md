@@ -19,9 +19,13 @@ hannah.fresques@propublica.org
 	
 	* We'll be working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). Their data is [here](https://docs.google.com/spreadsheets/d/1vJrndtT4DZ1rIh60D5RMTIdHeNH6XPVloZmIhh0QYV0/edit?usp=sharing). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1G-k56Lmw2h-9aeEtABqKvrlpkqdvWktjc7_jIBq-_LU/edit#gid=1270903360).
 
-2. **DATE TK: Let's get into it**
+2. **Thursday, October 31: Let's get into it**
 	
-	* [Slides](https://docs.google.com/presentation/d/1klp_-u1V7O_KrTFSVwdIpKGEfcPG3HVZmPQKr7avpHo/edit?usp=sharing): ways to get data, data best practices, what tools exist, etc. 
+	* You read [Since Parkland](https://sinceparkland.org/)
+	
+	* [Slides](https://docs.google.com/presentation/d/1OPLYbD5R8LspnGxGJwUfKrs-UDuOvBadrJFPxcaaFqQ/edit?usp=sharing): ways to get data, data best practices, what tools exist, etc. 
+		
+	* We'll continue working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). Their data is [here](https://docs.google.com/spreadsheets/d/1vJrndtT4DZ1rIh60D5RMTIdHeNH6XPVloZmIhh0QYV0/edit?usp=sharing). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1G-k56Lmw2h-9aeEtABqKvrlpkqdvWktjc7_jIBq-_LU/edit#gid=1270903360).
 	
 3. **DATE TK: The Census & NYC Open Data**
 
