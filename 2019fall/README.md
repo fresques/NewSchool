@@ -27,12 +27,15 @@ hannah.fresques@propublica.org
 		
 	* We'll continue working with data from Jan Diehm & Amber Thomas's story on The Pudding about the size of [Pockets](https://pudding.cool/2018/08/pockets/). Their data is [here](https://docs.google.com/spreadsheets/d/1vJrndtT4DZ1rIh60D5RMTIdHeNH6XPVloZmIhh0QYV0/edit?usp=sharing). You also entered in data on the size of your own pockets [here](https://docs.google.com/spreadsheets/d/1G-k56Lmw2h-9aeEtABqKvrlpkqdvWktjc7_jIBq-_LU/edit#gid=1270903360).
 	
-3. **DATE TK: The Census & NYC Open Data**
+3. **Thursday, November 14: The Census & NYC Open Data**
 
+	* You picked a piece to read/listen to by [Hansi Lo Wang](https://www.npr.org/people/177498291/hansi-lo-wang) who has been covering the Census for NPR.
+	
 	* [slides](https://docs.google.com/presentation/d/1m024DrP2_lNhFE2DEnA55bcgGZQxJuArofz-zkWDP_I/edit?usp=sharing) about the Census. 
 	
 	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 	
+	* Looking at responses to your interviews about problems in NYC. [Section C](https://docs.google.com/spreadsheets/d/1jq1ByIVtrgJDAobtNRd8OjsUSLn3m0uSSDSDUWUZMSI/edit?usp=sharing), [Section D](https://docs.google.com/spreadsheets/d/1DisKRN-Aeixjf5mg2KjIVsai8FB2HkfSEIfHjHafzlY/edit?usp=sharing). 
 	
 ## Resources
 
