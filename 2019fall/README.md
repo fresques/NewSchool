@@ -35,7 +35,7 @@ hannah.fresques@propublica.org
 	
 	* NYC Open Data [Portal](https://opendata.cityofnewyork.us/)
 	
-	* We'll be looking at responses to your interviews about problems in NYC. Data his here: [Section C](https://docs.google.com/spreadsheets/d/1jq1ByIVtrgJDAobtNRd8OjsUSLn3m0uSSDSDUWUZMSI/edit?usp=sharing), [Section D](https://docs.google.com/spreadsheets/d/1DisKRN-Aeixjf5mg2KjIVsai8FB2HkfSEIfHjHafzlY/edit?usp=sharing). 
+	* We'll be looking at responses to your interviews about problems in NYC. Data is here: [Section C](https://docs.google.com/spreadsheets/d/1jq1ByIVtrgJDAobtNRd8OjsUSLn3m0uSSDSDUWUZMSI/edit?usp=sharing), [Section D](https://docs.google.com/spreadsheets/d/1DisKRN-Aeixjf5mg2KjIVsai8FB2HkfSEIfHjHafzlY/edit?usp=sharing). 
 	
 ## Resources
 
